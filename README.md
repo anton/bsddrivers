@@ -5,3 +5,4 @@ intrepid* by Joseph Kong
 * [hello.c](hello/hello.c)
 * [echo.c](echo/echo.c)
 * [echo-2.0.c](echo-2.0/echo-2.0.c)
+* [echo_contig.c](echo_contig/echo_contig.c)
