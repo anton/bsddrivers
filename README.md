@@ -8,3 +8,4 @@ intrepid* by Joseph Kong
 * [echo_contig.c](echo_contig/echo_contig.c)
 * [echo-3.0.c](echo-3.0/echo-3.0.c)
 * [echo_config.c](echo-3.0/echo_config.c)
+* [pointless.c](pointless/pointless.c)
