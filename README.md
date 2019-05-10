@@ -9,3 +9,4 @@ intrepid* by Joseph Kong
 * [echo-3.0.c](echo-3.0/echo-3.0.c)
 * [echo_config.c](echo-3.0/echo_config.c)
 * [pointless.c](pointless/pointless.c)
+* [echo-4.0.c](echo-4.0/echo-4.0.c)
