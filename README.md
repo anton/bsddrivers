@@ -6,3 +6,5 @@ intrepid* by Joseph Kong
 * [echo.c](echo/echo.c)
 * [echo-2.0.c](echo-2.0/echo-2.0.c)
 * [echo_contig.c](echo_contig/echo_contig.c)
+* [echo-3.0.c](echo-3.0/echo-3.0.c)
+* [echo_config.c](echo-3.0/echo_config.c)
